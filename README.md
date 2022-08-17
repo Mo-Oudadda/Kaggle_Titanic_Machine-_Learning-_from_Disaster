@@ -4,6 +4,7 @@ This is my first ML project.
 
 ### Goal
 The goal is to predict if a passenger survived the sinking of the Titanic or not.
+
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
 #### Data : 
