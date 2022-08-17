@@ -22,4 +22,4 @@ Kaggle Data : https://www.kaggle.com/c/titanic/data
     1. Data understanding and exploration
     2. Data Preprocessing
     3. Model building 
-    4. Model evaluation
+    4. Model evaluation (Best score : Random Forest	86.98%)
