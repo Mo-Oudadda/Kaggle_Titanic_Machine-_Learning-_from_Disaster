@@ -7,10 +7,10 @@ The goal is to predict if a passenger survived the sinking of the Titanic or not
 
 From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 
-#### Data : 
+### Data : 
 Kaggle Data : https://www.kaggle.com/c/titanic/data
 
-#### Dependencies:
+### Dependencies:
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
